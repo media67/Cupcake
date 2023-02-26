@@ -57,7 +57,6 @@ class FlavorFragment : Fragment() {
         }
     }
 
-
     /**
      * Navigate to the next screen to choose pickup date.
      */
@@ -65,6 +64,10 @@ class FlavorFragment : Fragment() {
         findNavController().navigate(R.id.action_flavorFragment_to_pickupFragment)
     }
 
+    fun cancelOrder() {
+        sharedViewModel.resetOrder()
+        findNavController().navigate(R.id.action_flavorFragment_to_startFragment)
+    }
 
     /**
      * This fragment lifecycle method is called when the view hierarchy associated with the fragment
