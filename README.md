@@ -41,4 +41,5 @@ Links listed throughout the code lab
 - [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html)
 - [equals](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/equals.html)
 - [compile time constants](https://kotlinlang.org/docs/reference/properties.html#compile-time-constants)
+- [LifeCycleOwner](https://developer.android.com/reference/androidx/lifecycle/LifecycleOwner)
 - 
