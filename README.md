@@ -31,5 +31,6 @@ Links listed throughout the code lab
 - [Jetpack Navigation](https://developer.android.com/guide/navigation)
 - [Navigation - Getting started](https://developer.android.com/guide/navigation/navigation-getting-started)
 - [Jetpack Navigation library](https://developer.android.com/jetpack/androidx/releases/navigation)
-  - 
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) 
+- [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
 
