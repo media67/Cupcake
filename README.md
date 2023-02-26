@@ -36,4 +36,7 @@ Links listed throughout the code lab
 - [Data binding library](https://developer.android.com/topic/libraries/data-binding)
 - [Android Jetpack](https://developer.android.com/jetpack)
 - [scope function](https://kotlinlang.org/docs/reference/scope-functions.html)
+- [SimpleDateFormat](https://developer.android.com/reference/java/text/SimpleDateFormat)
+- [Locale](https://developer.android.com/reference/java/util/Locale)
+- [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html)
 - 
