@@ -44,6 +44,8 @@ Links listed throughout the code lab
 - [LifeCycleOwner](https://developer.android.com/reference/androidx/lifecycle/LifecycleOwner)
 - [Transformations.map()](https://developer.android.com/reference/androidx/lifecycle/Transformations.html#map(androidx.lifecycle.LiveData%3CX%3E,%20androidx.arch.core.util.Function%3CX,%20Y%3E))
 - [NumberFormat](https://developer.android.com/reference/kotlin/android/icu/text/NumberFormat)
+- [how to create an email intent](https://developer.android.com/guide/components/intents-common#Email)
+- [PackageManager](https://developer.android.com/reference/android/content/pm/PackageManager)
 
 Learn More
 ----------
