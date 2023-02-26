@@ -7,6 +7,8 @@ import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
 
+private const val PRICE_PER_CUPCAKE = 2.00
+
 class OrderViewModel : ViewModel() {
     private val _quantity = MutableLiveData<Int>()
     val quantity: LiveData<Int> = _quantity
@@ -20,11 +22,11 @@ class OrderViewModel : ViewModel() {
     private val _price = MutableLiveData<Double>()
     val price: LiveData<Double> = _price
 
-
     val dateOptions = getPickupOptions()
 
     fun setQuantity(numberCupcakes: Int) {
         _quantity.value = numberCupcakes
+        updatePrice()
     }
 
     fun setFlavor(desiredFlavor: String) {
@@ -49,6 +51,11 @@ class OrderViewModel : ViewModel() {
         }
         return options
     }
+
+    private fun updatePrice() {
+        _price.value = (quantity.value ?: 0) * PRICE_PER_CUPCAKE
+    }
+
 
     fun resetOrder() {
         _quantity.value = 0
