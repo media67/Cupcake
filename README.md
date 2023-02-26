@@ -46,6 +46,8 @@ Links listed throughout the code lab
 - [NumberFormat](https://developer.android.com/reference/kotlin/android/icu/text/NumberFormat)
 - [how to create an email intent](https://developer.android.com/guide/components/intents-common#Email)
 - [PackageManager](https://developer.android.com/reference/android/content/pm/PackageManager)
+- [elvis operator](https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator)
+- 
 
 Learn More
 ----------
