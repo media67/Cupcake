@@ -39,4 +39,5 @@ Links listed throughout the code lab
 - [SimpleDateFormat](https://developer.android.com/reference/java/text/SimpleDateFormat)
 - [Locale](https://developer.android.com/reference/java/util/Locale)
 - [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html)
+- [equals](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/equals.html)
 - 
