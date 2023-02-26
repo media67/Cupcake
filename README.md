@@ -44,3 +44,15 @@ Links listed throughout the code lab
 [] [LifeCycleOwner](https://developer.android.com/reference/androidx/lifecycle/LifecycleOwner)
 [] [Transformations.map()](https://developer.android.com/reference/androidx/lifecycle/Transformations.html#map(androidx.lifecycle.LiveData%3CX%3E,%20androidx.arch.core.util.Function%3CX,%20Y%3E))
 [] [NumberFormat](https://developer.android.com/reference/kotlin/android/icu/text/NumberFormat)
+
+Learn More
+----------
+[] [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
+[] [ViewModel overview](https://developer.android.com/topic/libraries/architecture/viewmodel)
+[] [Data binding](https://developer.android.com/topic/libraries/data-binding)
+[] [Layout and binding expressions](https://developer.android.com/topic/libraries/data-binding/expressions)
+[] [Transform LiveData](https://developer.android.com/topic/libraries/architecture/livedata#transform_livedata)
+[] [SimpleDateFormat](https://developer.android.com/reference/java/text/SimpleDateFormat)
+[] [==apply== score function in Kotlin](https://kotlinlang.org/docs/reference/scope-functions.html#apply) 
+[] [Compile time constants](https://kotlinlang.org/docs/reference/properties.html#compile-time-constants)
+
