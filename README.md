@@ -35,4 +35,5 @@ Links listed throughout the code lab
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
 - [Data binding library](https://developer.android.com/topic/libraries/data-binding)
 - [Android Jetpack](https://developer.android.com/jetpack)
+- [scope function](https://kotlinlang.org/docs/reference/scope-functions.html)
 - 
