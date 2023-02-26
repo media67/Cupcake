@@ -24,3 +24,12 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+Links listed throughout the code lab
+-----------------------------------
+- [Share ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html#sharing)
+- [Jetpack Navigation](https://developer.android.com/guide/navigation)
+- [Navigation - Getting started](https://developer.android.com/guide/navigation/navigation-getting-started)
+- [Jetpack Navigation library](https://developer.android.com/jetpack/androidx/releases/navigation)
+  - 
+
