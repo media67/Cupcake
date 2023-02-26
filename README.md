@@ -33,4 +33,6 @@ Links listed throughout the code lab
 - [Jetpack Navigation library](https://developer.android.com/jetpack/androidx/releases/navigation)
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) 
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
-
+- [Data binding library](https://developer.android.com/topic/libraries/data-binding)
+- [Android Jetpack](https://developer.android.com/jetpack)
+- 
