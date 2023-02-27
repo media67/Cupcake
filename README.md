@@ -47,7 +47,8 @@ Links listed throughout the code lab
 - [how to create an email intent](https://developer.android.com/guide/components/intents-common#Email)
 - [PackageManager](https://developer.android.com/reference/android/content/pm/PackageManager)
 - [elvis operator](https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator)
-- 
+- [Test](https://developer.android.com/studio/test)
+- [Training - test apps for Android](https://developer.android.com/training/testing)
 
 Learn More
 ----------
@@ -59,4 +60,21 @@ Learn More
 - [SimpleDateFormat](https://developer.android.com/reference/java/text/SimpleDateFormat)
 - ['apply' score function in Kotlin](https://kotlinlang.org/docs/reference/scope-functions.html#apply) 
 - [Compile time constants](https://kotlinlang.org/docs/reference/properties.html#compile-time-constants)
+- [Principles of navigation](https://developer.android.com/guide/navigation/navigation-principles)
+- [Understand tasks and back stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
+- [Navigation and the back stack](https://developer.android.com/guide/navigation/navigation-navigate#back-stack)
+- [popUpTo and popUpToInclusive](https://developer.android.com/guide/navigation/navigation-navigate#pop)
+- [Email intent](https://developer.android.com/guide/components/intents-common#Email)
+- [Formatting strings](https://developer.android.com/guide/topics/resources/string-resource#formatting-strings)
+- [Quantity strings(plural)](https://developer.android.com/guide/topics/resources/string-resource#Plurals)
+- [Elvis operator in Kotlin](https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator)
 
+Extend the cupcake app
+----------------------
+Extend the Cupcake app with your own variations on the cupcake order flow. Examples:
+
+    Offer a special flavor that has some special conditions around it, such as not being available for same day pickup.
+    Ask the user for their name for the cupcake order.
+    Allow the user to select multiple cupcake flavors for their order if the quantity is more than 1 cupcake.
+
+What areas of your app would you need to update to accommodate this new functionality?
